@@ -6,7 +6,7 @@ Based on following iOS Tutorials:
 
 {Application Preferences – Part 1}[http://www.iphonesdkarticles.com/2008/08/application-preferences.html]
 and
-{Application Preferences – Part 2}[http://www.iphonesdkarticles.com/2008/08/application-preferences.html]
+{Application Preferences – Part 2}[http://www.iphonesdkarticles.com/2008/08/application-preferences-part-2.html]
 
 == Install
 
