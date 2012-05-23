@@ -5,7 +5,7 @@ This is a small RubyMotion example app to show how to create an iPhone settings 
 Based on following iOS Tutorials:
 
 {Application Preferences – Part 1}[http://www.iphonesdkarticles.com/2008/08/application-preferences.html]
-
+and
 {Application Preferences – Part 2}[http://www.iphonesdkarticles.com/2008/08/application-preferences.html]
 
 == Install
