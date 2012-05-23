@@ -21,5 +21,6 @@ And run the project in the iOS Simulator
 
 == Screenshots
 
+{<img src="https://dl.dropbox.com/u/1098463/Screenshots/Screen%20Shot%202012-05-23%20at%2016.29.25%20.png" />}[https://dl.dropbox.com/u/1098463/Screenshots/Screen%20Shot%202012-05-23%20at%2016.29.25%20.png]
 {<img src="https://dl.dropbox.com/u/1098463/Screenshots/Screen%20Shot%202012-05-23%20at%2016.24.07%20.png" />}[https://dl.dropbox.com/u/1098463/Screenshots/Screen%20Shot%202012-05-23%20at%2016.24.07%20.png]
 {<img src="https://dl.dropbox.com/u/1098463/Screenshots/Screen%20Shot%202012-05-23%20at%2016.24.13%20.png" />}[http://dl.dropbox.com/u/1098463/Screenshots/Screen%20Shot%202012-05-23%20at%2016.24.13%20.png]
