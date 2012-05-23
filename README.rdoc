@@ -1,0 +1,25 @@
+= RubyMotion Settings Example
+
+This is a small RubyMotion example app to show how to create an iPhone settings view.
+
+== Install
+
+Please be sure to have {RubyMotion}[//http://www.rubymotion.com/] installed before continue.
+
+Clone the repo
+
+    git clone git://github.com/mordaroso/rubymotion-settings.git
+
+Enter the directory
+
+    cd rubymotion-settings
+
+And run the project in the iOS Simulator
+
+    rake
+
+
+== Screenshots
+
+{<img src="https://dl.dropbox.com/u/1098463/Screenshots/Screen%20Shot%202012-05-23%20at%2016.24.07%20.png" />}[https://dl.dropbox.com/u/1098463/Screenshots/Screen%20Shot%202012-05-23%20at%2016.24.07%20.png]
+{<img src="https://dl.dropbox.com/u/1098463/Screenshots/Screen%20Shot%202012-05-23%20at%2016.24.13%20.png" />}[http://dl.dropbox.com/u/1098463/Screenshots/Screen%20Shot%202012-05-23%20at%2016.24.13%20.png]
